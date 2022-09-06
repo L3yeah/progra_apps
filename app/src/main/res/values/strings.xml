@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lilia Rivera</string>
+    <string name="mi_primer_app">Mi primer app</string>
+    <string name="enviar">Enviar</string>
+    <string name="textview">TextView</string>
+    <string name="escribe_tu_nombre">Escribe tu nombre</string>
+</resources>

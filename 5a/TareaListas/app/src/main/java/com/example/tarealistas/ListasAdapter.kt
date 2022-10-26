@@ -4,7 +4,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 
-class ListasAdapter(private val listas: List<Alumno>): RecyclerView.Adapter<ListasAdapter.ViewHolder> {
+class ListasAdapter(private val listas: List<Alumno>): RecyclerView.Adapter<ListasAdapter.ViewHolder> { //Clase por hacer
     class ViewHolder(view: View): RecyclerView.ViewHolder(view)
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {

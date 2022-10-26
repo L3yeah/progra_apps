@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val recycler = findViewById<RecyclerView>(R.id.recycler)
-        recycler.adapter =
+        //val recycler = findViewById<RecyclerView>(R.id.recycler) //agregamos esta linea
+       // recycler.adapter =
     }
 }

@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
             if (user == "lilia" && password == "1997"){
 
                 val nombre = persona [0].nombre
-                activity.putExtra("key", "$nombre")
+                activity.putExtra("key","$nombre")
 
                 startActivity(activity)
             }
